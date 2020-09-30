@@ -14,7 +14,7 @@
 //  Copyright Â© 2020 Ricardo de Carvalho Destro. All rights reserved.
 //
 
-
+#include "TestaPrimo.h"
 
 /* Convencao: EhPrimo = 1 se o numero dado 'e primo */
 /*  EhPrimo = 0 se o numero dado nao 'e primo       */
